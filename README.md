@@ -2,16 +2,29 @@
 
 <p align="center">
   The practice workshop of <strong>Manuel Re</strong>.<br>
-  Independent transformation delivery: Product and Delivery, PMO and Governance, Applied AI.<br>
-  Sydney, working across Australia and New Zealand.<br>
+  Independent transformation delivery, Sydney, across Australia and New Zealand.<br>
   <a href="https://company31.com">company31.com</a>
+</p>
+
+<p align="center">
+  <a href="https://company31.com/services.html"><img alt="Product and Delivery" src="https://img.shields.io/badge/Product%20%26%20Delivery-1d4ed8?style=for-the-badge&labelColor=0a1628"></a>
+  <a href="https://company31.com/services.html"><img alt="PMO and Governance" src="https://img.shields.io/badge/PMO%20%26%20Governance-1d4ed8?style=for-the-badge&labelColor=0a1628"></a>
+  <a href="https://company31.com/services.html"><img alt="Applied AI" src="https://img.shields.io/badge/Applied%20AI-1d4ed8?style=for-the-badge&labelColor=0a1628"></a>
+</p>
+
+<p align="center">
+  <a href="https://company31.com"><img alt="company31.com" src="https://img.shields.io/badge/company31.com-0a1628?style=flat-square&logo=safari&logoColor=white"></a>
+  <img alt="Sydney, Australia" src="https://img.shields.io/badge/Sydney-334155?style=flat-square">
+  <img alt="Australia and New Zealand" src="https://img.shields.io/badge/AU%20%26%20NZ-334155?style=flat-square">
+  <img alt="Vendor neutral" src="https://img.shields.io/badge/Vendor%20neutral-334155?style=flat-square">
+  <img alt="Built with restraint" src="https://img.shields.io/badge/Built%20with%20restraint-64748b?style=flat-square">
 </p>
 
 ---
 
 This is the public workshop. Everything here is **built with restraint**: small, hand-authored, mostly static or single-file apps. Nothing needs a build chain you do not already have. Each repo stands on its own.
 
-## Business & workflow
+## 🧭 Business & workflow
 
 Practice software. The tools used with clients, in the open.
 
@@ -25,7 +38,7 @@ Practice software. The tools used with clients, in the open.
 | [**slotello**](https://github.com/c31labs/slotello) | Appointment booking for allied health, EAP, and mental health practices. |
 | [**AgentArchitect**](https://github.com/c31labs/AgentArchitect) | Scaffolding for designing AI agent systems. |
 
-## Thinking & writing tools
+## ✍️ Thinking & writing tools
 
 Small apps for the work between meetings.
 
@@ -40,7 +53,7 @@ Small apps for the work between meetings.
 | [**pomodorophy**](https://github.com/c31labs/pomodorophy) | A Pomodoro timer with a Stoic quote between sessions. |
 | [**zshterminalscript**](https://github.com/c31labs/zshterminalscript) | Shell scripts I actually use. |
 
-## Learning & wellbeing
+## 🌱 Learning & wellbeing
 
 Small civic apps. For kids, for employees, for anyone who clicks through.
 
@@ -52,7 +65,7 @@ Small civic apps. For kids, for employees, for anyone who clicks through.
 | [**naplan5game**](https://github.com/c31labs/naplan5game) | NAPLAN Year 5 practice, gamified. |
 | [**bcspeedruntraining**](https://github.com/c31labs/bcspeedruntraining) | Speed run drills for business continuity. |
 
-## Games & experiments
+## ♟️ Games & experiments
 
 Written for fun, and because a small game is the best way to test a new idea.
 
@@ -69,7 +82,7 @@ Written for fun, and because a small game is the best way to test a new idea.
 
 ---
 
-## Company31 Labs
+## 🧪 Company31 Labs
 
 The research corner of the practice. Delivery and AI tools, prototyped and free to start: a browser based **Cyber Check**, **Cassandra** (an offline planning assistant that turns meetings and notes into Excel and Word on your own laptop), **Shirun** (a lean delivery cockpit with a problems first RAG dashboard), and **Zero to Business** (an open source AI co-founder). See them all at [company31.com/tools.html](https://company31.com/tools.html). The one open here is [**cybercheck**](https://github.com/c31labs/cybercheck).
 

@@ -1,9 +1,9 @@
 <h1 align="center">Company31 · c31labs</h1>
 
 <p align="center">
-  A boutique product studio led by <strong>Manuel Re</strong> — Sydney, serving Australia and New Zealand.<br>
+  A boutique product studio led by <strong>Manuel Re</strong>, based in Sydney and serving Australia and New Zealand.<br>
   We push market-leading CRM and ERP platforms beyond their defaults, and design AI products<br>
-  and workflows that make people and businesses more capable — with the ROI to prove it.<br>
+  and workflows that make people and businesses more capable, with the ROI to prove it.<br>
   <a href="https://company31.com">company31.com</a>
 </p>
 
@@ -31,7 +31,7 @@ This is the public workshop. Everything here is **built with restraint**: small,
 
 ## 🧭 CRM, ERP & product delivery
 
-Practice software. The tools used with clients, in the open — the same thinking applied to Dynamics 365, Salesforce, Business Central, SAP, and NetSuite engagements.
+Practice software. The tools used with clients, in the open. It is the same thinking applied to Dynamics 365, Salesforce, Business Central, SAP, and NetSuite engagements.
 
 | Repo | What it does |
 | --- | --- |
@@ -51,7 +51,7 @@ AI products and workflows that expand what people and businesses can do.
 | [**AgentArchitect**](https://github.com/c31labs/AgentArchitect) | Scaffolding for designing AI agent systems. |
 | [**drift**](https://github.com/c31labs/drift) | AI assisted note taking. |
 
-More in the Labs below — the AI tools prototyped for client work live at [company31.com/tools.html](https://company31.com/tools.html).
+More in the Labs below. The AI tools prototyped for client work live at [company31.com/tools.html](https://company31.com/tools.html).
 
 ## ✍️ Thinking & writing tools
 
@@ -104,7 +104,7 @@ The research corner of the practice. Delivery and AI tools, prototyped and free 
 
 ## About Manuel
 
-Founder of Company31. Two decades designing and delivering products at the enterprise end — for banks, carmakers, the world's great newsrooms, government, and not-for-profits — now building for small and mid sized businesses across Australia and New Zealand. Product comes first: start with the person doing the work, then shape the technology around them. Every build answers the same question — does this make someone more capable? Technology for human empowerment, not replacement. Vendor neutral by design: no reselling, no commissions, tools chosen on merit.
+Founder of Company31. Two decades designing and delivering products at the enterprise end, for banks, carmakers, the world's great newsrooms, government, and not-for-profits, now building for small and mid sized businesses across Australia and New Zealand. Product comes first: start with the person doing the work, then shape the technology around them. Every build answers the same question: does this make someone more capable? Technology for human empowerment, not replacement. Vendor neutral by design: no reselling, no commissions, tools chosen on merit.
 
 - **Practices:** Product and Delivery · Applied AI
 - **Platforms:** Dynamics 365 · Salesforce · Business Central · SAP · NetSuite

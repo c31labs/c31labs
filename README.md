@@ -1,9 +1,9 @@
 <h1 align="center">Company31 · c31labs</h1>
 
 <p align="center">
-  The boutique practice of <strong>Manuel Re</strong> — Sydney, across Australia and New Zealand.<br>
-  Expanding market-leading CRM and ERP platforms, and designing AI products and workflows<br>
-  that grow human and business capability — and the ROI to show for it.<br>
+  A boutique product studio led by <strong>Manuel Re</strong> — Sydney, serving Australia and New Zealand.<br>
+  We push market-leading CRM and ERP platforms beyond their defaults, and design AI products<br>
+  and workflows that make people and businesses more capable — with the ROI to prove it.<br>
   <a href="https://company31.com">company31.com</a>
 </p>
 
@@ -104,7 +104,7 @@ The research corner of the practice. Delivery and AI tools, prototyped and free 
 
 ## About Manuel
 
-Founder of Company31. Two decades at the enterprise end of delivery, for banks, carmakers, the world's great newsrooms, government, and not-for-profits, now on the side of small and mid sized business across Australia and New Zealand. Vendor neutral by design: no reselling, no commissions, tools chosen on merit.
+Founder of Company31. Two decades designing and delivering products at the enterprise end — for banks, carmakers, the world's great newsrooms, government, and not-for-profits — now building for small and mid sized businesses across Australia and New Zealand. Product comes first: start with the person doing the work, then shape the technology around them. Every build answers the same question — does this make someone more capable? Technology for human empowerment, not replacement. Vendor neutral by design: no reselling, no commissions, tools chosen on merit.
 
 - **Practices:** Product and Delivery · Applied AI
 - **Platforms:** Dynamics 365 · Salesforce · Business Central · SAP · NetSuite

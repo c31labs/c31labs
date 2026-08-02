@@ -1,15 +1,20 @@
 <h1 align="center">Company31 · c31labs</h1>
 
 <p align="center">
-  The practice workshop of <strong>Manuel Re</strong>.<br>
-  Independent transformation delivery, Sydney, across Australia and New Zealand.<br>
+  The boutique practice of <strong>Manuel Re</strong> — Sydney, across Australia and New Zealand.<br>
+  Expanding market-leading CRM and ERP platforms, and designing AI products and workflows<br>
+  that grow human and business capability — and the ROI to show for it.<br>
   <a href="https://company31.com">company31.com</a>
 </p>
 
 <p align="center">
   <a href="https://company31.com/services.html"><img alt="Product and Delivery" src="https://img.shields.io/badge/Product%20%26%20Delivery-1d4ed8?style=for-the-badge&labelColor=0a1628"></a>
-  <a href="https://company31.com/services.html"><img alt="PMO and Governance" src="https://img.shields.io/badge/PMO%20%26%20Governance-1d4ed8?style=for-the-badge&labelColor=0a1628"></a>
   <a href="https://company31.com/services.html"><img alt="Applied AI" src="https://img.shields.io/badge/Applied%20AI-1d4ed8?style=for-the-badge&labelColor=0a1628"></a>
+</p>
+
+<p align="center">
+  <img alt="CRM: Dynamics 365 and Salesforce" src="https://img.shields.io/badge/CRM-Dynamics%20365%20%C2%B7%20Salesforce-334155?style=flat-square&labelColor=0a1628">
+  <img alt="ERP: Business Central, SAP, NetSuite" src="https://img.shields.io/badge/ERP-Business%20Central%20%C2%B7%20SAP%20%C2%B7%20NetSuite-334155?style=flat-square&labelColor=0a1628">
 </p>
 
 <p align="center">
@@ -24,9 +29,9 @@
 
 This is the public workshop. Everything here is **built with restraint**: small, hand-authored, mostly static or single-file apps. Nothing needs a build chain you do not already have. Each repo stands on its own.
 
-## 🧭 Business & workflow
+## 🧭 CRM, ERP & product delivery
 
-Practice software. The tools used with clients, in the open.
+Practice software. The tools used with clients, in the open — the same thinking applied to Dynamics 365, Salesforce, Business Central, SAP, and NetSuite engagements.
 
 | Repo | What it does |
 | --- | --- |
@@ -36,7 +41,17 @@ Practice software. The tools used with clients, in the open.
 | [**Occam**](https://github.com/c31labs/Occam) | AgilePro PM. An opinionated Agile board that enforces WIP limits and backlog hygiene. |
 | [**global360assignement**](https://github.com/c31labs/global360assignement) | TaskFlow. A small reference implementation of how a delivery is structured and run. |
 | [**slotello**](https://github.com/c31labs/slotello) | Appointment booking for allied health, EAP, and mental health practices. |
+
+## 🤖 Applied AI
+
+AI products and workflows that expand what people and businesses can do.
+
+| Repo | What it does |
+| --- | --- |
 | [**AgentArchitect**](https://github.com/c31labs/AgentArchitect) | Scaffolding for designing AI agent systems. |
+| [**drift**](https://github.com/c31labs/drift) | AI assisted note taking. |
+
+More in the Labs below — the AI tools prototyped for client work live at [company31.com/tools.html](https://company31.com/tools.html).
 
 ## ✍️ Thinking & writing tools
 
@@ -44,7 +59,6 @@ Small apps for the work between meetings.
 
 | Repo | What it does |
 | --- | --- |
-| [**drift**](https://github.com/c31labs/drift) | AI assisted note taking. |
 | [**journal**](https://github.com/c31labs/journal) | Private journaling. |
 | [**markdowneditor**](https://github.com/c31labs/markdowneditor) | A focused Markdown editor. |
 | [**mdslidedeck**](https://github.com/c31labs/mdslidedeck) | Turn Markdown into slide decks. |
@@ -79,6 +93,8 @@ Written for fun, and because a small game is the best way to test a new idea.
 | [**pokectapl**](https://github.com/c31labs/pokectapl) | Poker experiments in Python. |
 | [**solo-D-D-experiment**](https://github.com/c31labs/solo-D-D-experiment) | A solo tabletop RPG, powered by a model. |
 | [**ALtraker**](https://github.com/c31labs/ALtraker) | Adventure League Logbook. A session and character log for tabletop play. |
+| [**adventureleaguenotebooktracker**](https://github.com/c31labs/adventureleaguenotebooktracker) | A notebook and session tracker for D&D Adventurers League play. |
+| [**Warhammer-Fantasy-Role-Play-s-character-sheet-4th-edition-**](https://github.com/c31labs/Warhammer-Fantasy-Role-Play-s-character-sheet-4th-edition-) | A character sheet for Warhammer Fantasy Roleplay, 4th edition. |
 
 ---
 
@@ -88,9 +104,10 @@ The research corner of the practice. Delivery and AI tools, prototyped and free 
 
 ## About Manuel
 
-Founder of Company31. Two decades at the enterprise end of delivery, for banks, carmakers, the world's great newsrooms, government, and not-for-profits, now on the side of small and mid sized business across Australia and New Zealand. PRINCE2 Practitioner. Vendor neutral by design: no reselling, no commissions, tools chosen on merit.
+Founder of Company31. Two decades at the enterprise end of delivery, for banks, carmakers, the world's great newsrooms, government, and not-for-profits, now on the side of small and mid sized business across Australia and New Zealand. Vendor neutral by design: no reselling, no commissions, tools chosen on merit.
 
-- **Practices:** Product and Delivery · PMO and Governance · Applied AI
+- **Practices:** Product and Delivery · Applied AI
+- **Platforms:** Dynamics 365 · Salesforce · Business Central · SAP · NetSuite
 - **Location:** Sydney, Australia
 - **Practice site:** [company31.com](https://company31.com), English, no analytics before you consent
 - **Work together:** a sentence, a voice note, or a short call, via [company31.com](https://company31.com)

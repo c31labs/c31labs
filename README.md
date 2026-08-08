@@ -100,7 +100,7 @@ Written for fun, and because a small game is the best way to test a new idea.
 
 ## 🧪 Company31 Labs
 
-The research corner of the practice. Delivery and AI tools, prototyped and free to start: a browser based **Cyber Check**, **Cassandra** (an offline planning assistant that turns meetings and notes into Excel and Word on your own laptop), **Shirun** (a lean delivery cockpit with a problems first RAG dashboard), and **Zero to Business** (an open source AI co-founder). See them all at [company31.com/tools.html](https://company31.com/tools.html). The one open here is [**cybercheck**](https://github.com/c31labs/cybercheck).
+The research corner of the practice. Delivery and AI tools, prototyped and free to start: a browser based **Cyber Check**, **Cassandra** (an offline planning assistant that turns meetings and notes into Excel and Word on your own laptop), **Shirun** (a lean delivery cockpit with a problems first RAG dashboard), and **Zero to Business** (an open source AI co-founder). The one open here is [**cybercheck**](https://github.com/c31labs/cybercheck).
 
 ## About Manuel
 

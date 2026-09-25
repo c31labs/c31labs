@@ -159,7 +159,8 @@ Public, unfinished and open to inspection. Experiments, prototypes and small too
 
 Sheet 2 of the drawing. I write at [manuelre.com](https://manuelre.com) about delivery, change and applied AI, and what building things teaches about all three.
 
-<!-- BLOG-POST-LIST:START -->- [The quieter conundrum](https://manuelre.com/post.php?slug=the-quieter-conundrum)
+<!-- BLOG-POST-LIST:START -->
+- [The quieter conundrum](https://manuelre.com/post.php?slug=the-quieter-conundrum)
 - [What discomfort actually measures](https://manuelre.com/post.php?slug=what-discomfort-measures)
 - [Skilled for the work that was](https://manuelre.com/post.php?slug=skilled-for-the-work-that-was)
 - [Back on the tools](https://manuelre.com/post.php?slug=back-on-the-tool)

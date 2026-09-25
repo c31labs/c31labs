@@ -164,8 +164,7 @@ Sheet 2 of the drawing. I write at [manuelre.com](https://manuelre.com) about de
 - [What discomfort actually measures](https://manuelre.com/post.php?slug=what-discomfort-measures)
 - [Skilled for the work that was](https://manuelre.com/post.php?slug=skilled-for-the-work-that-was)
 - [Back on the tools](https://manuelre.com/post.php?slug=back-on-the-tool)
-- [The product after the prototype](https://manuelre.com/post.php?slug=the-product-after-the-prototype)
-<!-- BLOG-POST-LIST:END -->
+- [The product after the prototype](https://manuelre.com/post.php?slug=the-product-after-the-prototype)<!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Refreshed daily from the <a href="https://manuelre.com/feed.php">RSS feed</a>.</sub>
 

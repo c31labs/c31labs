@@ -1,0 +1,25 @@
+name: Latest essays
+
+# Rewrites the list between the BLOG-POST-LIST markers in README.md
+# from the manuelre.com feed. Commits only when the list changes.
+on:
+  schedule:
+    - cron: "17 21 * * *" # 07:17 in Sydney (AEST)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  essays:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://manuelre.com/feed.php"
+          max_post_count: 5
+          template: "- [$title]($url)$newline"
+          commit_message: "Refresh the latest essays"
+          committer_username: "c31labs"
+          committer_email: "c31labs@users.noreply.github.com"

@@ -14,6 +14,8 @@
 
 ### 👋 I'm Manuel Re. I build tools for people doing real work.
 
+**Enterprise-quality apps at a fraction of the cost. Private by design, secure by default.**
+
 For 25 years I led delivery for banks, governments, carmakers and newsrooms. Now I'm back on the tools. **Company31** is my independent think tank and engineering workbench in Sydney, and I practise what I call *forward-deployed engineering*:
 
 > 🔍 **Understand the work** alongside the people doing it &nbsp;·&nbsp; 🛠️ **Build what helps** around the habits already in place &nbsp;·&nbsp; 🔁 **Learn from use** and bring it back to the bench

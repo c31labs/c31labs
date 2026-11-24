@@ -162,11 +162,11 @@ Public, unfinished and open to inspection. Experiments, prototypes and small too
 Sheet 2 of the drawing. I write at [manuelre.com](https://manuelre.com) about delivery, change and applied AI, and what building things teaches about all three.
 
 <!-- BLOG-POST-LIST:START -->
-- [When the ground keeps moving](https://manuelre.com/post.php?slug=when-the-ground-keeps-moving)
-- [The technology was never the monster](https://manuelre.com/post.php?slug=the-technology-was-never-the-monster)
-- [The human at the centre of care](https://manuelre.com/post.php?slug=human-at-the-centre-of-care)
-- [Born into the tool](https://manuelre.com/post.php?slug=born-into-the-tool)
-- [The quieter conundrum](https://manuelre.com/post.php?slug=the-quieter-conundrum)<!-- BLOG-POST-LIST:END -->
+- [The needs nobody is pricing](https://c31.ai/essays/the-needs-nobody-is-pricing/)
+- [When the ground keeps moving](https://c31.ai/essays/when-the-ground-keeps-moving/)
+- [The technology was never the monster](https://c31.ai/essays/the-technology-was-never-the-monster/)
+- [The human at the centre of care](https://c31.ai/essays/human-at-the-centre-of-care/)
+- [Born into the tool](https://c31.ai/essays/born-into-the-tool/)<!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Refreshed daily from the <a href="https://manuelre.com/feed.php">RSS feed</a>.</sub>
 
